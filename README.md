@@ -1,5 +1,3 @@
-# Billboard Top 100 Game
-
 # Can You Guess The Billboard Year-End Hot 100 Singles of the Year (2000 - 2023)?
 ## Introduction
 Do you think you're a music expert? Find out by playing this fun game to guess the Billboard Hot 100 singles of the year! This game only includes the songs from the years between 2000 and 2023. You will have 5 attempts to guess the song - after each failed attempt, you will receive a hint to help you along the way.
